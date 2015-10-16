@@ -1,0 +1,25 @@
+{
+  "name": "try-riotjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earnubs/try-riotjs.git"
+  },
+  "keywords": [],
+  "author": "Stephen Stewart <stephen.stewart@canonical.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/earnubs/try-riotjs/issues"
+  },
+  "homepage": "https://github.com/earnubs/try-riotjs#readme",
+  "dependencies": {
+    "riot": "^2.2.4",
+    "riotify": "^0.1.2",
+    "watchify": "^3.4.0"
+  }
+}
